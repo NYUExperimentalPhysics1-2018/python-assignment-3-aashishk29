@@ -4,6 +4,19 @@
 Created on Thu Oct 18 19:18:02 2018
 
 @author: gershow
+
+Comments (by me, Aashish):
+
+THIS IS THE "FUN" VERSION  (as the name suggests),
+which I will work on as and when I can. 
+Please do not assess this; I'll commit whenever
+I add something relevant. Seeing this later is optional;
+just thought I'd submit the original solution before the deadline. 
+
+As of now, it behaves exactly as the original one did. I'll add 
+in a comment when I update. 
+
+So long, and tanks for all the fish.
 """
 import numpy as np
 import matplotlib.pyplot as plt
